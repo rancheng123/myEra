@@ -1,0 +1,21 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "author": "rancheng <rancheng@meituan.com>",
+  "private": true,
+  "dependencies": {
+    "koa": "^2.5.3"
+  },
+  "devDependencies": {
+    "co": "^4.6.0",
+    "inherits": "^2.0.3",
+    "media-typer": "^0.3.0",
+    "mime-types": "^2.1.20",
+    "ms": "^2.1.1",
+    "negotiator": "^0.6.1",
+    "setprototypeof": "^1.1.0",
+    "toidentifier": "^1.0.0",
+    "ylru": "^1.2.1"
+  }
+}
