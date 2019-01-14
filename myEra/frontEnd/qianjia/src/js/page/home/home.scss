@@ -1,0 +1,65 @@
+.avatar-uploader .el-upload {
+  border: 1px dashed #d9d9d9;
+  border-radius: 6px;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+}
+.avatar-uploader .el-upload:hover {
+  border-color: #409EFF;
+}
+.avatar-uploader-icon {
+  font-size: 28px;
+  color: #8c939d;
+  width: 178px;
+  height: 178px;
+  line-height: 178px;
+  text-align: center;
+}
+.avatar {
+  width: 178px;
+  height: 178px;
+  display: block;
+}
+
+
+
+#app {
+  height: 100%;
+}
+.app-box {
+  height: 100%;
+  display: box;
+  display: -webkit-box;
+  position: relative;
+  overflow: hidden;
+}
+.el-header, .el-footer {
+  background-color: #B3C0D1;
+  color: #409eff;
+  text-align: left;
+  line-height: 60px;
+  font-size: 23px;
+  font-weight: 400;
+  font-family: Hiragino Sans GB;
+  background: #409EFF;
+  color: #fff
+}
+
+.el-aside {
+  background-color: #545c64;
+}
+.el-main {
+  background: #ffffff;
+  color: #333;
+}
+
+.el-main .main-inner {
+  background-color: #E9EEF3;
+  padding: 5px;
+  border-radius: 2px
+}
+
+.el-container {
+  height: 100%;
+}
